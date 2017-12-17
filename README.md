@@ -3,6 +3,7 @@
 * создать базу данных taxis
 * создать пользователся admin с паролем admin
 * наделить его полными правами на базу данных taxis
+* запустить в Idea файл Application
 
 # GET http://localhost:8080/taxis/managers
 ## response
